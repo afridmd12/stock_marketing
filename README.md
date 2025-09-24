@@ -91,7 +91,7 @@ This project allows users to upload stock market CSV data, select tickers, and v
 ## 💻 Run Locally
 1. Clone repo:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/stock_market_dashboard.git
+   git clone https://github.com/afridmd12/stock_marketing.git
    ```
 2. Navigate:  
    ```bash
